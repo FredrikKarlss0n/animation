@@ -31,7 +31,7 @@
   #up3{
       height: 200px;
       width: 100%;
-      background:rgb(91, 91, 216);
+      background:lightblue;
       position: relative;
   }
 
@@ -74,7 +74,7 @@
   
   .progress-moved .progress-bar {
     width: 85%; 
-    background-color: green;  
+    background-color: rgb(11, 138, 0);  
     animation: progressAnimation 6s infinite;
     animation-direction: alternate;
   }
